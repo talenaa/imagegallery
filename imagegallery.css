@@ -1,0 +1,165 @@
+.titlePrincipal{
+    font-size: 50px;
+    text-align: center;
+    font-family: monospace;
+}
+
+h1{
+      font-size: 25px;
+      text-align: center;
+      font-family: sans-serif;
+}
+
+ 
+h2{
+    font-size: 25px;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+
+h3{
+    font-size: 15px;
+    text-align: left;
+    font-family: sans-serif;
+}
+
+
+h4{
+    font-size: 15px;
+    text-align:left;
+    font-family: sans-serif;
+}
+
+
+h5{
+    font-size: 15px;
+    text-align: left;
+    font-family: sans-serif;
+}
+
+
+h6{
+    font-size: 15px;
+    text-align: left;
+    font-family: sans-serif;
+}
+
+
+text{
+    font-size: 15px;
+    text-align: left;
+    font-family: sans-serif;
+}
+
+
+.div2{
+    font-size: 15px;
+    text-align: left;
+    font-family: sans-serif;
+}
+
+
+.div3{
+     font-size: 15px;
+     text-align: left;
+     font-family: sans-serif;
+}
+
+
+.div4{
+     font-size: 15px;
+     text-align: left;
+     font-family: sans-serif;
+}
+
+
+.div5{
+      font-size: 15px;
+      text-align: left;
+      font-family: sans-serif;
+}
+
+
+article{
+    font-size: 15px;
+    text-align: left;
+    font-family: sans-serif;
+}
+
+
+.iconAutumnForest{
+    width: 480px;
+    height: 350px;
+}
+
+
+.iconLynn{
+    width: 480px;
+    height: 350px;
+} 
+
+
+.iconBelcarra{
+    width: 480px;
+    height: 350px;
+    
+}
+
+
+.iconClevelanddam{
+    width: 480px;
+    height: 350px;
+}
+
+.iconMountains{
+    width: 480px;
+    height: 350px;
+}
+
+.iconAutumnPark{
+    width: 480px;
+    height: 350px;
+}
+
+
+.iconFalls{
+    width: 480px;
+    height: 350px;
+}
+
+
+.iconLake{
+    width: 480PX;
+    height: 350px;
+}
+
+
+.iconQuebec{
+    width: 480px;
+    height: 350px;
+}
+
+
+.iconJasper{
+    width: 480px;
+    height: 350px;
+}
+
+
+.iconWinter{
+     width: 480px;
+     height: 350px;
+}
+
+
+.iconEmeraldLake{
+     width: 480px;
+     height: 350px;
+}
+
+.allCards {
+    display: flex;
+    justify-content: row;
+    flex-wrap: wrap;  
+ }
